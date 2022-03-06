@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [https://github.com/mzs21/order-summary-component-](https://github.com/mzs21/order-summary-component-)
-- Live Site URL: [https://mzs21.github.io/qr-code-component/](https://mzs21.github.io/qr-code-component/)
+- Live Site URL: [https://mzs21.github.io/order-summary-component-/](https://mzs21.github.io/order-summary-component-/)
 
 ### Built with
 
