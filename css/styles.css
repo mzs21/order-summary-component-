@@ -1,5 +1,5 @@
 .bg-image {
-  background: url("https://raw.githubusercontent.com/mzs21/order-summary-component-/dc0f2b3bf043d0493f92ca2a794571a3b84c4ceb/images/pattern-background-desktop.svg") no-repeat center/cover;
+  background: url("https://mzs21.github.io/order-summary-component-/images/pattern-background-desktop.svg") no-repeat center/cover;
 }
 @media only screen and (max-width : 480px) {
   .bg-image {
