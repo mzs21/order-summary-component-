@@ -1,17 +1,15 @@
 .bg-image {
-  background: url("/images/pattern-background-desktop.svg") center/cover no-repeat;
+  background: url("/images/pattern-background-desktop.svg") no-repeat center/cover;
 }
-
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width : 480px) {
   .bg-image {
-    background: url("/images/pattern-background-mobile.svg") center/cover no-repeat;
+    background: url("/images/pattern-background-mobile.svg") no-repeat center/cover;
   }
 }
 
 .change-color {
   color: #4518be;
 }
-
 .change-color:hover {
   text-decoration: none;
   color: grey;
@@ -20,8 +18,9 @@
 .cancel-order {
   color: grey;
 }
-
 .cancel-order:hover {
   color: black;
   font-weight: bold;
 }
+
+/*# sourceMappingURL=styles.css.map */
