@@ -1,9 +1,9 @@
 .bg-image {
-  background: url("/images/pattern-background-desktop.svg") no-repeat center/cover;
+  background: url("../images/pattern-background-desktop.svg") no-repeat center/cover;
 }
 @media only screen and (max-width : 480px) {
   .bg-image {
-    background: url("/images/pattern-background-mobile.svg") no-repeat center/cover;
+    background: url("../images/pattern-background-mobile.svg") no-repeat center/cover;
   }
 }
 

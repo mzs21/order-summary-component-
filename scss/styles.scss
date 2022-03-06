@@ -1,11 +1,11 @@
 $media-mobile-sm: "only screen and (max-width : 480px)";
 
 .bg-image {
-  background: url("/images/pattern-background-desktop.svg") no-repeat
+  background: url("../images/pattern-background-desktop.svg") no-repeat
     center/cover;
 
   @media #{$media-mobile-sm} {
-    background: url("/images/pattern-background-mobile.svg") no-repeat
+    background: url("../images/pattern-background-mobile.svg") no-repeat
       center/cover;
   }
 }
